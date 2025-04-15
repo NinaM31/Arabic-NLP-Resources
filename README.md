@@ -3,10 +3,10 @@ This is a list of ANLP related papers. Any feedback is welcome.
 
 ## Table Of Contents
 - [Text Diacritization](#arabic-text-diacritization)
-- Text Summarization
-- Word Disambiguation
-- Question-Answering Systems.
-- Sentiment Analysis
+- [Text Summarization](#text-summarization)
+- [Word Disambiguation](#word-disambiguation)
+- [Question-Answering Systems](#question-answering-systems)
+- [Sentiment Analysis](#sentiment-analysis)
 
 ## Arabic Text Diacritization
 ### Studies & Surveys
@@ -36,3 +36,47 @@ This is a list of ANLP related papers. Any feedback is welcome.
 | Diacritizing Arabic Text Using a Single Hidden Markov Model                                                    | 2018    | [IEEE](https://ieeexplore.ieee.org/document/8402214)            |
 | SHAKKIL: An Automatic Diacritization System for Modern Standard Arabic Texts                                   | 2017    | [ACL](https://aclanthology.org/W17-1311/)                       |
 | Arabic Diacritization with Recurrent Neural Networks                                                           | 2015    | [ACL](https://aclanthology.org/D15-1274/)                       |
+
+## Text Summarization
+### Studies & Surveys
+| Survey Title                                                                                 |Year| Link                                                |
+| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| | | |
+
+### Papers
+| Title                                                                                                          | Year    |   Link                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
+| | | |
+
+## Word Disambiguation
+### Studies & Surveys
+| Survey Title                                                                                 |Year| Link                                                |
+| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| | | |
+
+### Papers
+| Title                                                                                                          | Year    |   Link                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
+| | | |
+
+## Question-Answering Systems
+### Studies & Surveys
+| Survey Title                                                                                 |Year| Link                                                |
+| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| | | |
+
+### Papers
+| Title                                                                                                          | Year    |   Link                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
+| | | |
+
+## Sentiment Analysis
+### Studies & Surveys
+| Survey Title                                                                                 |Year| Link                                                |
+| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| | | |
+
+### Papers
+| Title                                                                                                          | Year    |   Link                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
+| | | |
