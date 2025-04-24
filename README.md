@@ -1,12 +1,12 @@
 # Arabic-NLP-Related-Papers
-This is a list of ANLP related papers. Any feedback is welcome.
+This is a list of ANLP related papers. Any feedback or additional papers are welcome.
 
 ## Table Of Contents
 - [Text Diacritization](#arabic-text-diacritization)
-- [Text Summarization](#text-summarization)
-- [Word Disambiguation](#word-disambiguation)
-- [Question-Answering Systems](#question-answering-systems)
-- [Sentiment Analysis](#sentiment-analysis)
+- [Text Summarization](#arabic-text-summarization)
+- [Word Disambiguation](#arabic-word-disambiguation)
+- [Question-Answering Systems](#arabic-question-answering-systems)
+- [Sentiment Analysis](#arabic-sentiment-analysis)
 
 ## Arabic Text Diacritization
 ### Studies & Surveys
@@ -37,7 +37,7 @@ This is a list of ANLP related papers. Any feedback is welcome.
 | SHAKKIL: An Automatic Diacritization System for Modern Standard Arabic Texts                                   | 2017    | [ACL](https://aclanthology.org/W17-1311/)                       |
 | Arabic Diacritization with Recurrent Neural Networks                                                           | 2015    | [ACL](https://aclanthology.org/D15-1274/)                       |
 
-## Text Summarization
+## Arabic Text Summarization
 ### Studies & Surveys
 | Survey Title                                                                                 |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -48,7 +48,7 @@ This is a list of ANLP related papers. Any feedback is welcome.
 | -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
 | | | |
 
-## Word Disambiguation
+## Arabic Word Disambiguation
 ### Studies & Surveys
 | Survey Title                                                                                 |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -59,7 +59,7 @@ This is a list of ANLP related papers. Any feedback is welcome.
 | -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
 | | | |
 
-## Question-Answering Systems
+## Arabic Question-Answering Systems
 ### Studies & Surveys
 | Survey Title                                                                                 |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -70,7 +70,7 @@ This is a list of ANLP related papers. Any feedback is welcome.
 | -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
 | | | |
 
-## Sentiment Analysis
+## Arabic Sentiment Analysis
 ### Studies & Surveys
 | Survey Title                                                                                 |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
