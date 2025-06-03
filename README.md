@@ -16,13 +16,14 @@ This repository serves as a curated collection of surveys, literature reviews, a
 ### Studies & Surveys
 | Title                                                                                        |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| Arabic text diacritization using transformers: a comparative study                           |2025|[IAES](http://doi.org/10.11591/ijai.v14.i1.pp702-711)|
 | Literature Review of Automatic Restoration of Arabic Diacritics                              |2023|[IEEE](https://ieeexplore.ieee.org/document/10424191)|
 | A Comparative Study of Some Automatic Arabic Text Diacritization Systems                     |2022|[WILEY](https://onlinelibrary.wiley.com/doi/10.1155/2022/3613710)|
 | Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey |2021|[IEEE](https://ieeexplore.ieee.org/document/9585619) |
 | Arabic text diacritization: overview and solution                                            |2019|[ACM](https://dl.acm.org/doi/10.1145/3368756.3369088)|
 | Arabic Text Diacritization Using Deep Neural Networks                                        |2019|[IEEE](https://ieeexplore.ieee.org/document/8769512) |
 | A survey of automatic Arabic diacritization techniques                                       |2015|[CUP](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/survey-of-automatic-arabic-diacritization-techniques/8D869B09FE33D60F3C801A97AFD6C5F1) |
-| Arabic text diacritization using transformers: a comparative study                           |2025|[IAES](http://doi.org/10.11591/ijai.v14.i1.pp702-711)|
+
 
 ### Papers
 | Title                                                                                                          | Year    |   Link                                                         |
