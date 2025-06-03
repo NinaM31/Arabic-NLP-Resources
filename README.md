@@ -7,8 +7,9 @@ This repository serves as a curated collection of surveys, literature reviews, a
 - [Text Diacritization](#arabic-text-diacritization)
 - [Text Summarization](#arabic-text-summarization)
 - [Word Disambiguation](#arabic-word-disambiguation)
-- [Question-Answering Systems](#arabic-question-answering-systems)
 - [Sentiment Analysis](#arabic-sentiment-analysis)
+- [Question-Answering Systems](#arabic-question-answering-systems)
+
 
 ## Arabic Text Diacritization
 ![ATD:](https://img.shields.io/badge/Papers-20-blue?style=for-the-badge)
@@ -43,7 +44,7 @@ This repository serves as a curated collection of surveys, literature reviews, a
 ## Arabic Text Summarization
 ### Studies & Surveys
 | Title                                                                                 |Year| Link                                                |
-| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
+| -------------------------------------------------------------------------------------------- |----|--------------------------------------------  |
 | | | |
 
 ### Papers
@@ -84,18 +85,50 @@ This repository serves as a curated collection of surveys, literature reviews, a
 | A Semi-Supervised Method for Arabic Word Sense Disambiguation Using a Weighted Directed Graph                       |2013| [ACL](https://aclanthology.org/I13-1140/)                                 |
 | A Hybrid Approach for Arabic Word Sense Disambiguation                                                              |2012| [ICJPL](https://doi.org/10.1142/S1793840612400090)                        |
 
-## Arabic Question-Answering Systems
+## Arabic Sentiment Analysis
+![ASA:](https://img.shields.io/badge/Papers-34-blue?style=for-the-badge)
 ### Studies & Surveys
-| Title                                                                                 |Year| Link                                                |
-| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
-| | | |
+| Title                                                                                                                     |Year| Link                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------  |
+|The effect of emojis on arabic text in sentiment analysis using deep learning                                              |2025|[AIP](https://doi.org/10.1063/5.0255620)                                   |
+|Benchmark Arabic news posts and analyzes Arabic sentiment through RMuBERT and SSL with AMCFFL technique                    |2025|[JEIJ](https://doi.org/10.1016/j.eij.2024.100601)                          |
+|A systematic literature review on sentiment analysis techniques, challenges, and future trends                             |2025|[Springer](https://link.springer.com/article/10.1007/s10115-025-02365-x)   |
+|Evolving techniques in sentiment analysis: a comprehensive review                                                          |2025|[PEERJ](https://doi.org/10.7717/peerj-cs.2592)                             |
+|A Comprehensive Survey of Contemporary Arabic Sentiment Analysis: Methods, Challenges, and Future Directions               |2025|[ACL](https://aclanthology.org/2025.findings-naacl.208/)                   |
+|Exploring Contemporary Arabic Sentiment Analysis: Methods, Challenges, and Future Trends                                   |2025|[PJMI](https://www.journals.airsd.org/index.php/pjmi/article/view/517)     |
+|Evaluating Large Language Models for Arabic Sentiment Analysis: A Comparative Study Using Retrieval-Augmented Generation   |2024|[ELSEVIER](https://doi.org/10.1016/j.procs.2024.10.210)                    |
+|Advancements and challenges in Arabic sentiment analysis: A decade of methodologies, applications, and resource development|2024|[Heliyon](https://doi.org/10.1016/j.heliyon.2024.e39786)                   |
+|Natural Language Processing for Arabic Sentiment Analysis: A Systematic Literature Review                                  |2024|[IEEE](https://doi.org/10.1109/TBDATA.2024.3366083)                        |
+|Towards a robust deep learning framework for Arabic sentiment analysis                                                     |2024|[CUP](https://doi.org/10.1017/nlp.2024.35)                                 |
+|Comparative Analysis of Machine Learning Algorithms for Arabic Sentiment Analysis on Imbalanced Social Media Data          |2024|[IEEE](https://doi.org/10.1109/ICETSIS61505.2024.10459389)                 |
+|Analyse the Enhancement of Sentiment Analysis in Arabic by doing a Comparative Study of Several Machine Learning Techniques|2024|[IJRASET](http://dx.doi.org/10.22214/ijraset.2024.60250)                   |
+|Sentiment Analysis Methods for Arabic Content on Social Media: A Systematic Review                                         |2023|[IIETA](https://doi.org/10.18280/isi.290138)                               |
+|Arabic sentiment analysis using recurrent neural networks: a review                                                        |2021|[Springer](https://link.springer.com/article/10.1007/s10462-021-09989-9)   |
+|A review of sentiment analysis research in Arabic language                                                                 |2020|[ELSEVIER](https://doi.org/10.1016/j.future.2020.05.034)                   |
+|Deep learning in Arabic sentiment analysis: An overview                                                                    |2019|[JInfSci](https://doi.org/10.1177/0165551519865)                           |
 
 ### Papers
-| Title                                                                                                          | Year    |   Link                                                         |
-| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
-| | | |
+| Title                                                                                                                         |Year|Link                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------|
+|Ar-MuSA: A Multimodal Benchmark Dataset and Evaluation Framework for Arabic Sentiment Analysis                                 |2025|[IJIES](http://dx.doi.org/10.22266/ijies2025.0531.03)                      |
+|Large Language Models for Arabic Sentiment Analysis and Machine Translation                                                    |2025|[ETASR](https://doi.org/10.48084/etasr.9584)                               |
+|Arabic sentiment analysis using ensemble learning and BERT                                                                     |2025|[AIP](https://doi.org/10.1063/5.0256396)                                   |
+|Machine Learning Approaches for Sentiment Analysis on Social Media                                                             |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-80334-5_2)  |
+|Computational intelligence approach to automated sentiment analysis of Arabic tweets                                           |2025|[Springer](https://link.springer.com/article/10.1007/s00521-024-10808-9)   |
+|A combined AraBERT and Voting Ensemble classifier model for Arabic sentiment analysis                                          |2024|[ELSEVIER](https://doi.org/10.1016/j.nlp.2024.100100)                      |
+|Sentiment Analysis of Arabic Tweets using ARABERT as a fine tuner and feature extractors                                       |2024|[IEEE](https://doi.org/10.1109/SDS60720.2024.00012)                        |
+|FusionAraSA: Fusion-based Model for Accurate Arabic Sentiment Analysis                                                         |2024|[IEEE](https://doi.org/10.1109/eSmarTA62850.2024.10638882)                 |
+|Emo-SL Framework: Emoji Sentiment Lexicon Using Text-Based Features and Machine Learning for Sentiment Analysis                |2024|[IEEE](https://doi.org/10.1109/ACCESS.2024.3382836)                        |
+|CNN and LSTM based hybrid deep learning model for sentiment analysis on arabic text reviews                                    |2024|[MUET](http://dx.doi.org/10.22581/muet1982.3130)                           |
+|ArabBert-LSTM: improving Arabic sentiment analysis based on transformer model and Long Short-Term Memory                       |2024|[FRAI](https://doi.org/10.3389/frai.2024.1408845)                          |
+|Sentiment analysis of imbalanced Arabic data using sampling techniques and classification algorithms                           |2024|[IAES](https://doi.org/10.11591/eei.v13i1.5886)                            |
+|Improving sentiment analysis using text network features within different machine learning algorithms                          |2024|[IAES](https://doi.org/10.11591/eei.v13i1.5576)                            |
+|Sentiment analysis of Arabic social media texts: A machine learning approach to deciphering customer perceptions               |2024|[Heliyon](http://dx.doi.org/10.1016/j.heliyon.2024.e27863)                 |
+|Improving Arabic sentiment analysis across context-aware attention deep model based on natural language processing             |2024|[Springer](https://link.springer.com/article/10.1007/s10579-024-09741-z)   |
+|Arabic Sentiment Analysis for ChatGPT Using Machine Learning Classification Algorithms: A Hyperparameter Optimization Technique|2024|[ACM](https://doi.org/10.1145/3638285)                                     |
+|Deep learning approaches for Arabic sentiment analysis                                                                         |2019|[Springer](https://link.springer.com/article/10.1007/s13278-019-0596-4)    |
 
-## Arabic Sentiment Analysis
+## Arabic Question-Answering Systems
 ### Studies & Surveys
 | Title                                                                                 |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
