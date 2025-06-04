@@ -3,7 +3,14 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-This repository serves as a curated collection of surveys, literature reviews, and research papers covering various essential Arabic Natural Language Processing (NLP) tasks. We invite you to explore the rich content and contribute to making this an even more robust resource for the global Arabic NLP community.
+[![Total Papers](https://img.shields.io/badge/Paper_Count-127%2B-6A737D?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/search?q=file%3A*.md) 
+![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Related-Papers?style=for-the-badge&color=6A737D)
+[![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Related-Papers?style=for-the-badge&color=6A737D)](https://github.com/NinaM31/Snake-ai/graphs/contributors)
+[![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)](LICENSE) 
+
+
+This repository serves as a curated collection of surveys, studies, and research papers covering various essential Arabic Natural Language Processing (NLP) tasks. We invite you to explore the rich content and contribute to making this an even more robust resource for the global Arabic NLP community.
+
 
 ## Table Of Contents
 - [Text Diacritization](#arabic-text-diacritization)
@@ -14,7 +21,7 @@ This repository serves as a curated collection of surveys, literature reviews, a
 
 
 ## Arabic Text Diacritization
-![ATD:](https://img.shields.io/badge/Papers-20-blue?style=for-the-badge)
+![ATD:](https://img.shields.io/badge/Papers-20%2B-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                        |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -45,18 +52,40 @@ This repository serves as a curated collection of surveys, literature reviews, a
 | Arabic Diacritization with Recurrent Neural Networks                                                           | 2015    | [ACL](https://aclanthology.org/D15-1274/)                       |
 
 ## Arabic Text Summarization
+![ATS:](https://img.shields.io/badge/Papers-23%2B-6A737D?style=for-the-badge)
 ### Studies & Surveys
-| Title                                                                                 |Year| Link                                                |
-| -------------------------------------------------------------------------------------------- |----|--------------------------------------------  |
-| | | |
+| Title                                                                                                          |Year| Link                                                                        |
+| ---------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------|
+|Exploring Advances in Arabic Long-Text Summarization Strategies: A Survey                                       |2024|[FCIHIB](https://doi.org/10.21608/fcihib.2024.258854.1103)                   |
+|A survey of text summarization and Headline Generation methods in Arabic                                        |2024|[ACM](https://doi.org/10.1145/3674029.3674078)                               |
+|Arabic Text Summarization Challenges using Deep Learning Techniques: A Review                                   |2023|[IJRITCC](http://dx.doi.org/10.17762/ijritcc.v11i11s.8079)                   |
+|A Comprehensive Review of Arabic Text Summarization                                                             |2022|[IEEE](https://doi.org/10.1109/ACCESS.2022.3163292)                          |
+|Deep Transformer Language Models for Arabic Text Summarization: A Comparison Study                              |2022|[ApplSci](https://doi.org/10.3390/app122311944)                              |
+|Text Summarization: A Brief Review                                                                              |2019|[Springer](https://link.springer.com/chapter/10.1007/978-3-030-34614-0_1)    |
+|Automatic Arabic Summarization: A survey of methodologies and systems                                           |2017|[ELSEVIER](https://doi.org/10.1016/j.procs.2017.10.088)                      |
+|Automatic Arabic text summarization: a survey                                                                   |2016|[Springer](https://link.springer.com/article/10.1007/s10462-015-9442-x)      |
 
-### Papers
-| Title                                                                                                          | Year    |   Link                                                         |
-| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
-| | | |
+### Papers 
+| Title                                                                                                                      |Year|   Link                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------|----| ----------------------------------------------------------------------------|
+|Enhanced model for abstractive Arabic text summarization using natural language generation and named entity recognition     |2025|[Springer](https://link.springer.com/article/10.1007/s00521-024-10949-x)     |
+|Extractive Arabic Text Summarization-Graph-Based Approach                                                                   |2023|[ELECTRONICS](https://doi.org/10.3390/electronics12020437)                   |
+|A Hybrid Arabic Text Summarization Approach based on Transformers                                                           |2022|[IEEE](https://doi.org/10.1109/MIUCC55081.2022.9781694)                      |
+|Abstractive Arabic Text Summarization Based on Deep Learning                                                                |2022|[WILEY](https://doi.org/10.1155/2022/1566890)                                |
+|Unsupervised neural networks for automatic Arabic text summarization using document clustering and topic modeling           |2021|[ELSEVIER](https://doi.org/10.1016/j.eswa.2021.114652)                       |
+|An automatic arabic text summarization system based on genetic algorithms                                                   |2021|[ELSEVIER](https://doi.org/10.1016/j.procs.2021.05.083)                      |
+|An efficient single document Arabic text summarization using a combination of statistical and semantic features             |2021|[JKSUCI](https://doi.org/10.1016/j.jksuci.2019.03.010)                       |
+|BERT Fine-tuning For Arabic Text Summarization                                                                              |2020|[arXiv](https://doi.org/10.48550/arXiv.2004.14135)                           |
+|Automatic Arabic Text Summarization Using Analogical Proportions                                                            |2020|[Springer](https://link.springer.com/article/10.1007/s12559-020-09748-y)     |
+|Extractive Multi-Document Arabic Text Summarization Using Evolutionary Multi-Objective Optimization With K-Medoid Clustering|2020|[IEEE](https://doi.org/10.1109/ACCESS.2020.3046494)                          |
+|Multidocument Arabic Text Summarization Based on Clustering and Word2Vec to Reduce Redundancy                               |2020|[INFO](https://doi.org/10.3390/info11020059)                                 |
+|Extractive Arabic Text Summarization Using Modified PageRank Algorithm                                                      |2020|[JEIJ](https://doi.org/10.1016/j.eij.2019.11.001)                            |
+|Arabic text summarization using deep learning approach                                                                      |2020|[Springer](https://link.springer.com/article/10.1186/s40537-020-00386-7)     |
+|Arabic Text Summarization Using AraBERT Model Using Extractive Text Summarization Approach                                  |2020|[IJAISR](http://ijeais.org/wp-content/uploads/2020/8/IJAISR200802.pdf)       |
+|An abstractive Arabic text summarizer with user controlled granularity                                                      |2018|[ELSEVIER](https://doi.org/10.1016/j.ipm.2018.06.002)                        |
 
 ## Arabic Word Disambiguation
-![ATD:](https://img.shields.io/badge/Papers-23-blue?style=for-the-badge)
+![ATD:](https://img.shields.io/badge/Papers-23%2B-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                  |Year| Link                                                                      |
 | ------------------------------------------------------------------------------------------------------ |----|-------------------------------------------------------------------------  |
@@ -89,7 +118,7 @@ This repository serves as a curated collection of surveys, literature reviews, a
 | A Hybrid Approach for Arabic Word Sense Disambiguation                                                              |2012| [ICJPL](https://doi.org/10.1142/S1793840612400090)                        |
 
 ## Arabic Sentiment Analysis
-![ASA:](https://img.shields.io/badge/Papers-34-blue?style=for-the-badge)
+![ASA:](https://img.shields.io/badge/Papers-34%2B-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                                     |Year| Link                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------  |
@@ -132,7 +161,7 @@ This repository serves as a curated collection of surveys, literature reviews, a
 |Deep learning approaches for Arabic sentiment analysis                                                                         |2019|[Springer](https://link.springer.com/article/10.1007/s13278-019-0596-4)    |
 
 ## Arabic Question-Answering Systems
-![AQAS:](https://img.shields.io/badge/Papers-27-blue?style=for-the-badge)
+![AQAS:](https://img.shields.io/badge/Papers-27%2B-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                                          |Year| Link                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------------------  |
