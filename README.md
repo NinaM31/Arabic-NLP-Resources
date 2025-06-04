@@ -3,13 +3,13 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-[![Total Papers](https://img.shields.io/badge/Paper_Count-127%2B-6A737D?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/search?q=file%3A*.md) 
-![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Related-Papers?style=for-the-badge&color=6A737D)
-[![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Related-Papers?style=for-the-badge&color=6A737D)](https://github.com/NinaM31/Snake-ai/graphs/contributors)
-[![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)](LICENSE) 
+![Total Papers](https://img.shields.io/badge/Paper_Count-127%2B-6A737D?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Resources-ANEER?style=for-the-badge&color=6A737D)
+![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources-ANEER?style=for-the-badge&color=6A737D)
+![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
 
 
-This repository serves as a curated collection of surveys, studies, and research papers covering various essential Arabic Natural Language Processing (NLP) tasks. We invite you to explore the rich content and contribute to making this an even more robust resource for the global Arabic NLP community.
+This repository serves as a curated collection of surveys, studies, and research papers covering various essential Arabic Natural Language Processing (NLP) tasks. We invite you to explore the rich content and contribute to making this an even more robust resource for the global Arabic NLP community. Looking to write a survey paper yourself? Our detailed guide on [How to Write a Systematic Literature Review (SLR)](How-to-Write-a-Survey-Paper/README.md) will walk you through the process.
 
 
 ## Table Of Contents
@@ -21,7 +21,7 @@ This repository serves as a curated collection of surveys, studies, and research
 
 
 ## Arabic Text Diacritization
-![ATD:](https://img.shields.io/badge/Papers-20%2B-6A737D?style=for-the-badge)
+![ATD:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                        |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -52,7 +52,7 @@ This repository serves as a curated collection of surveys, studies, and research
 | Arabic Diacritization with Recurrent Neural Networks                                                           | 2015    | [ACL](https://aclanthology.org/D15-1274/)                       |
 
 ## Arabic Text Summarization
-![ATS:](https://img.shields.io/badge/Papers-23%2B-6A737D?style=for-the-badge)
+![ATS:](https://img.shields.io/badge/Papers-23-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                          |Year| Link                                                                        |
 | ---------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------|
@@ -85,7 +85,7 @@ This repository serves as a curated collection of surveys, studies, and research
 |An abstractive Arabic text summarizer with user controlled granularity                                                      |2018|[ELSEVIER](https://doi.org/10.1016/j.ipm.2018.06.002)                        |
 
 ## Arabic Word Disambiguation
-![ATD:](https://img.shields.io/badge/Papers-23%2B-6A737D?style=for-the-badge)
+![ATD:](https://img.shields.io/badge/Papers-23-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                  |Year| Link                                                                      |
 | ------------------------------------------------------------------------------------------------------ |----|-------------------------------------------------------------------------  |
@@ -118,7 +118,7 @@ This repository serves as a curated collection of surveys, studies, and research
 | A Hybrid Approach for Arabic Word Sense Disambiguation                                                              |2012| [ICJPL](https://doi.org/10.1142/S1793840612400090)                        |
 
 ## Arabic Sentiment Analysis
-![ASA:](https://img.shields.io/badge/Papers-34%2B-6A737D?style=for-the-badge)
+![ASA:](https://img.shields.io/badge/Papers-34-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                                     |Year| Link                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------  |
@@ -161,7 +161,7 @@ This repository serves as a curated collection of surveys, studies, and research
 |Deep learning approaches for Arabic sentiment analysis                                                                         |2019|[Springer](https://link.springer.com/article/10.1007/s13278-019-0596-4)    |
 
 ## Arabic Question-Answering Systems
-![AQAS:](https://img.shields.io/badge/Papers-27%2B-6A737D?style=for-the-badge)
+![AQAS:](https://img.shields.io/badge/Papers-27-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                                          |Year| Link                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------------------  |
