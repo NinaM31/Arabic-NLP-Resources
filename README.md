@@ -130,12 +130,39 @@ This repository serves as a curated collection of surveys, literature reviews, a
 |Deep learning approaches for Arabic sentiment analysis                                                                         |2019|[Springer](https://link.springer.com/article/10.1007/s13278-019-0596-4)    |
 
 ## Arabic Question-Answering Systems
+![AQAS:](https://img.shields.io/badge/Papers-27-blue?style=for-the-badge)
 ### Studies & Surveys
-| Title                                                                                 |Year| Link                                                |
-| -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
-| | | |
+| Title                                                                                                                          |Year| Link                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------------------  |
+|Deciphering Arabic question: a dedicated survey on Arabic question analysis methods, challenges, limitations and future pathways|2024|[Springer](https://link.springer.com/article/10.1007/s10462-024-10880-6)               |
+|Techniques, datasets, evaluation metrics and future directions of a question answering system                                   |2024|[Springer](https://link.springer.com/article/10.1007/s10115-023-02019-w)               |
+|The effect of clustering algorithms on question answering                                                                       |2024|[ELSEVIER](https://doi.org/10.1016/j.eswa.2023.122959)                                 |
+|Interactive Question Answering Systems: Literature Review                                                                       |2024|[ACM](https://doi.org/10.1145/3657631)                                                 |
+|Decoding Queries: An In-Depth Survey of Quality Techniques for Question Analysis in Arabic Question Answering Systems           |2024|[IEEE](https://doi.org/10.1109/ACCESS.2024.3458466)                                    |
+|Challenges and opportunities for Arabic question-answering systems: current techniques and future directions                    |2023|[PEERJ](https://doi.org/10.7717/peerj-cs.1633)                                         |
+|Arabic question answering system: a survey                                                                                      |2022|[Springer](https://link.springer.com/article/10.1007/S10462-021-10031-1)               |
+|Arabic Question Answering Systems: Gap Analysis                                                                                 |2021|[IEEE](https://doi.org/10.1109/ACCESS.2021.3074950)                                    |
+|Pre-trained Transformer-Based Approach for Arabic Question Answering : A Comparative Study                                      |2021|[arXiv](http://dx.doi.org/10.48550/arXiv.2111.05671)                                   |
+|Arabic Question Answering: A Study on Challenges, Systems, and Techniques                                                       |2019|[IJCA](http://dx.doi.org/10.5120/ijca2019918524)                                       |
+|A Review and Future Perspectives of Arabic Question Answering Systems                                                           |2016|[IEEE](https://doi.org/10.1109/TKDE.2016.2607201)                                      |
+|Arabic Question Answering: Systems, Resources, Tools, and Future Trends                                                         |2014|[Springer](https://link.springer.com/article/10.1007/s13369-014-1062-2)                |
 
 ### Papers
-| Title                                                                                                          | Year    |   Link                                                         |
-| -------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
-| | | |
+| Title                                                                                                              |Year|   Link                                                                               |
+| -------------------------------------------------------------------------------------------------------------------|----| -------------------------------------------------------------------------------------|
+|CollabAS2: Enhancing Arabic Answer Sentence Selection Using Transformer-Based Collaborative Models                  |2025|[Springer](https://link.springer.com/article/10.1007/s13369-024-09345-3)              |
+|Question-Answering (QA) Model for a Personalized Learning Assistant for Arabic Language                             |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-82377-0_30)            |
+|Automated Question Generation for Science Tests in Arabic Language Using NLP Techniques                             |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-82377-0_24)            |
+|Arabic automatic question generation using transformer model                                                        |2024|[AIP](https://doi.org/10.1063/5.0199032)                                              |
+|Deep learning model for arabic question-answering chatbot                                                           |2024|[AIP](https://doi.org/10.1063/5.0200612)                                              |
+|AraMed: Arabic Medical Question Answering using Pretrained Transformer Language Models                              |2024|[ACL](https://aclanthology.org/2024.osact-1.6/)                                       |
+|Exploring Sentence Embedding Representation For Arabic Question Answering                                           |2024|[IJCDS](http://dx.doi.org/10.12785/ijcds/150187)                                      |
+|Stacked dynamic memory-coattention network for answering why-questions in Arabic                                    |2024|[Springer](https://link.springer.com/article/10.1007/s00521-024-09525-0)              |
+|DAQAS: Deep Arabic Question Answering System based on duplicate question detection and machine reading comprehension|2023|[JKSUCI](https://doi.org/10.1016/j.jksuci.2023.101709)                                |
+|Evaluation of an Arabic Chatbot Based on Extractive Question-Answering Transfer Learning and Language Transformers  |2023|[AI](https://doi.org/10.3390/ai4030035)                                               |
+|Deep learning-based approach for Arabic open domain question answering                                              |2022|[PEERJ](https://doi.org/10.7717/peerj-cs.952)                                         |
+|Neural Arabic Question Answering                                                                                    |2019|[ACL](https://doi.org/10.18653/v1/W19-4612)                                           |
+|AlQuAnS – An Arabic Language Question Answering System                                                              |2017|[SciTePress](http://dx.doi.org/10.5220/0006602901440154)                              |
+|Toward a New Arabic Question Answering System                                                                       |2018|[IAJIT](https://ccis2k.org/iajit/PDF/Special%20Issue%202018,%20No.%203A/17416.pdf)    |
+|An Arabic question-answering system for factoid questions                                                           |2009|[IEEE](https://doi.org/10.1109/NLPKE.2009.5313730)                                    |
+
