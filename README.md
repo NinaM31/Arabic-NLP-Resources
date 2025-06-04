@@ -1,4 +1,4 @@
-# Arabic NLP Resources: Surveys, Reviews, and Research
+# Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research
 This repository serves as a curated collection of surveys, literature reviews, and research papers covering various essential Arabic Natural Language Processing (NLP) tasks. We invite you to explore the rich content and contribute to making this an even more robust resource for the global Arabic NLP community.
 
 ![complied-a-list-of:](https://img.shields.io/badge/Total_Number_of_Papers-100+-blue?style=for-the-badge)
