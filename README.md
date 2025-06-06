@@ -3,7 +3,8 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-![Total Papers](https://img.shields.io/badge/Paper_Count-127%2B-6A737D?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Paper_Count-147-6A737D?style=for-the-badge)
+![NLP Tasks](https://img.shields.io/badge/Tasks-6-6A737D?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Resources-ANEER?style=for-the-badge&color=6A737D)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources-ANEER?style=for-the-badge&color=6A737D)
 ![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
@@ -18,6 +19,7 @@ This repository serves as a curated collection of surveys, studies, and research
 - [Word Disambiguation](#arabic-word-disambiguation)
 - [Sentiment Analysis](#arabic-sentiment-analysis)
 - [Question-Answering Systems](#arabic-question-answering-systems)
+- [Image Captioning](#arabic-image-captioning)
 
 
 ## Arabic Text Diacritization
@@ -42,7 +44,7 @@ This repository serves as a curated collection of surveys, studies, and research
 | Arabic Text Diacritization In The Age Of Transfer Learning: Token Classification Is All You Need               | 2024    | [arXiv](https://arxiv.org/abs/2401.04848)                      |
 | Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation       | 2021    | [arXiv](https://arxiv.org/abs/1911.03531)                      |
 | Simple Extensible Deep Learning Model for Automatic Arabic Diacritization                                      | 2021    | [ACM](https://dl.acm.org/doi/abs/10.1145/3480938)              |
-| A Deep Belief Network Classification Approach for Automatic Diacritization of Arabic Text                      | 2021    | [Applied Sciences](https://www.mdpi.com/2076-3417/11/11/5228)  |
+| A Deep Belief Network Classification Approach for Automatic Diacritization of Arabic Text                      | 2021    | [ApplSci](https://www.mdpi.com/2076-3417/11/11/5228)  |
 | LAMAD: A Linguistic Attentional Model for Arabic Text Diacritization                                           | 2021    | [ACL](https://aclanthology.org/2021.findings-emnlp.317/)       |
 | Effective Deep Learning Models for Automatic Diacritization of Arabic Text                                     | 2020    | [IEEE](https://ieeexplore.ieee.org/document/9274427)           |
 | Multi-components System for Automatic Arabic Diacritization                                                    | 2020    | [Springer](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_23) |
@@ -196,4 +198,35 @@ This repository serves as a curated collection of surveys, studies, and research
 |AlQuAnS – An Arabic Language Question Answering System                                                              |2017|[SciTePress](http://dx.doi.org/10.5220/0006602901440154)                              |
 |Toward a New Arabic Question Answering System                                                                       |2018|[IAJIT](https://ccis2k.org/iajit/PDF/Special%20Issue%202018,%20No.%203A/17416.pdf)    |
 |An Arabic question-answering system for factoid questions                                                           |2009|[IEEE](https://doi.org/10.1109/NLPKE.2009.5313730)                                    |
+
+# Arabic Image Captioning
+![AIC:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
+### Studies & Surveys
+|Title                                                                                                                  |Year| Link                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------------  |
+|A Systematic Literature Review on Using the Encoder-Decoder Models for Image Captioning in English and Arabic Languages|2023|[ApplSci](https://doi.org/10.3390/app131910894)                                                  |
+|A performance analysis of transformer-based deep learning models for Arabic image captioning                           |2023|[JKSUCI](https://doi.org/10.1016/j.jksuci.2023.101750)                                           |
+|An overview of the Image Description Systems in Arabic Language                                                        |2023|[IEEE](https://doi.org/10.1109/AICCSA59173.2023.10479235)                                        |
+|Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers                                          |2022|[Thesis](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9077401&fileOId=9077402)|
+|Arabic Image Captioning: The Effect of Text Pre processing on the Attention Weights and the BLEU-N Scores              |2022|[SAI](http://dx.doi.org/10.14569/IJACSA.2022.0130751)                                            |
+|Bench-Marking And Improving Arabic Automatic Image Captioning Through The Use Of Multi-Task Learning Paradigm          |2022|[arXiv](http://dx.doi.org/10.48550/arXiv.2202.05474)                                             |
+|Deep Learning for Arabic Image Captioning: A Comparative Study of Main Factors and Preprocessing Recommendations       |2021|[SAI](https://dx.doi.org/10.14569/IJACSA.2021.0121105)                                           |
+|A survey on Arabic Image Captioning Systems Using Deep Learning Models                                                 |2020|[IEEE](https://doi.org/10.1109/IIT50501.2020.9299027)                                            |
+
+### Papers
+|Title                                                                                                               |Year|Link                                                                               |
+|------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------------- |
+|Attention-based transformer model for Arabic image captioning                                                       |2025|[Springer](https://link.springer.com/article/10.1007/s00521-025-11199-1)           |
+|Utilizing Deep Learning Technique for Arabic Image Captioning                                                       |2024|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-59707-7_17)         |
+|Ar-CM-ViMETA: Arabic Image Captioning based on Concept Model and Vision-based Multi-Encoder Transformer Architecture|2024|[IAJIT](http://dx.doi.org/10.34028/iajit/21/3/9)                                   |
+|Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder                                     |2023|[ACL](https://doi.org/10.18653/v1/2023.arabicnlp-1.1)                              |
+|Towards Arabic Image Captioning: A Transformer-Based Approach                                                       |2023|[IEEE](https://doi.org/10.1109/NILES59815.2023.10296781)                           |
+|Arabic Captioning for Images of Clothing Using Deep Learning                                                        |2023|[Sensors](https://doi.org/10.3390/s23083783)                                       |
+|Improved Arabic image captioning model using feature concatenation with pre-trained word embedding                  |2023|[Springer](https://link.springer.com/article/10.1007/s00521-023-08744-1)           |
+|Arabic Image Captioning (AIC): Utilizing Deep Learning and Main Factors Comparison and Prioritization               |2020|[BUID](https://bspace.buid.ac.ae/handle/1234/1995)                                 |
+|AraCap: A hybrid deep learning architecture for Arabic Image Captioning                                             |2021|[ELSEVIER](https://doi.org/10.1016/j.procs.2021.05.108)                            |
+|Arabic Image Captioning Using Deep Learning with Attention                                                          |2021|[UGA](https://www.ai.uga.edu/sites/default/files/inline-files/theses/sabri_sabri_m_202108_ms.pdf)|
+|Automatic Arabic Image Captioning using RNN-LSTM-Based Language Model and CNN                                       |2018|[SAI](https://dx.doi.org/10.14569/IJACSA.2018.090610)                              |
+|Generating Image Captions in Arabic Using Root-Word Based Recurrent Neural Networks and Deep Neural Networks        |2018|[AAAI](https://doi.org/10.1609/aaai.v32i1.12179)                                   |
+
 
