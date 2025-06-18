@@ -3,8 +3,8 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-![Total Papers](https://img.shields.io/badge/Paper_Count-147-6A737D?style=for-the-badge)
-![NLP Tasks](https://img.shields.io/badge/Tasks-6-6A737D?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Paper_Count-170-6A737D?style=for-the-badge)
+![NLP Tasks](https://img.shields.io/badge/Tasks-7-6A737D?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
@@ -20,7 +20,7 @@ This repository serves as a curated collection of surveys, studies, and research
 - [Sentiment Analysis](#arabic-sentiment-analysis)
 - [Question-Answering Systems](#arabic-question-answering-systems)
 - [Image Captioning](#arabic-image-captioning)
-
+- [Named Entity Recognition](#arabic-named-entity-recognition)
 
 ## Arabic Text Diacritization
 ![ATD:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
@@ -228,5 +228,38 @@ This repository serves as a curated collection of surveys, studies, and research
 |Arabic Image Captioning Using Deep Learning with Attention                                                          |2021|[UGA](https://www.ai.uga.edu/sites/default/files/inline-files/theses/sabri_sabri_m_202108_ms.pdf)|
 |Automatic Arabic Image Captioning using RNN-LSTM-Based Language Model and CNN                                       |2018|[SAI](https://dx.doi.org/10.14569/IJACSA.2018.090610)                              |
 |Generating Image Captions in Arabic Using Root-Word Based Recurrent Neural Networks and Deep Neural Networks        |2018|[AAAI](https://doi.org/10.1609/aaai.v32i1.12179)                                   |
+
+# Arabic Named Entity Recognition
+![ANER:](https://img.shields.io/badge/Papers-23-6A737D?style=for-the-badge)
+### Studies & Surveys
+|Title                                                                                                                  |Year| Link                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------------  |
+|Advancements in Arabic Named Entity Recognition: A Comprehensive Review                                                |2024|[IEEE](https://doi.org/10.1109/ACCESS.2024.3491897)                                              |
+|A Survey of Techniques and Challenges in Arabic Named Entity Recognition                                               |2024|[JSST](https://solidstatetechnology.us/index.php/JSST/article/view/11657)                        |
+|A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends                                  |2023|[IEEE](https://doi.org/10.1109/TKDE.2023.3303136)                                                |
+|A Recent Survey of Arabic Named Entity Recognition on Social Media                                                     |2020|[IIETA](http://dx.doi.org/10.18280/ria.340202)                                                   |
+|A Comparative Review of Machine Learning for Arabic Named Entity Recognition                                           |2017|[IJASEIT](http://dx.doi.org/10.18517/ijaseit.7.2.1810)                                           |
+|Statistical Arabic Name Entity Recognition Approaches: A Survey                                                        |2017|[JPROCS](https://doi.org/10.1016/j.procs.2017.08.288)                                            |
+|Arabic Rule-Based Named Entity Recognition Systems Progress and Challenges                                             |2017|[IJASEIT](http://dx.doi.org/10.18517/ijaseit.7.3.1811)                                           |
+|Arabic Named Entity Recognition—A Survey and Analysis                                                                  |2016|[Springer](https://link.springer.com/chapter/10.1007/978-3-319-39345-2_8)                        |
+|A Survey of Arabic Named Entity Recognition and Classification                                                         |2014|[COLI](https://doi.org/10.1162/COLI_a_00178)                                                     |
+
+### Papers
+|Title                                                                                                               |Year|Link                                                                               |
+|------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------------- |
+|An Advanced Natural Language Processing Framework for Arabic Named Entity Recognition                               |2025|[ApplSci](https://doi.org/10.3390/app15063073)                                     |
+|ARDIAL-BERT: Advancing Multidialectal Arabic Named Entity Recognition Through Continual Pretraining                 |2025|[IEEE](https://doi.org/10.1109/TAI.2025.3562162)                                   |
+|Flat and Nested Named Entity Recognition in Arabic Language                                                         |2024|[IEEE](https://doi.org/10.1109/IRASET60544.2024.10548518)                          |
+|AMWAL: Named Entity Recognition for Arabic Financial News                                                           |2025|[ACL](https://aclanthology.org/2025.finnlp-1.20/)                                  |
+|Bangor University at WojoodNER 2024: Advancing Arabic Named Entity Recognition with CAMeLBERT-Mix                   |2024|[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.105)                            |
+|Addax at WojoodNER 2024: Attention-Based Dual-Channel Neural Network for Arabic Named Entity Recognition            |2024|[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.103)                            |
+|Active Learning with AraGPT2 for Arabic Named Entity Recognition                                                    |2023|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-41774-0_18)         |
+|Arabic Fine-Grained Entity Recognition                                                                              |2023|[arXiv](https://doi.org/10.48550/arXiv.2310.17333)                                 |
+|Arabic Named Entity Recognition in Arabic Tweets Using BERT-based Models                                            |2022|[JPROC](https://doi.org/10.1016/j.procs.2022.07.109)                               |
+|Wojood: Nested Arabic Named Entity Corpus and Recognition using BERT                                                |2022|[arXiv](https://doi.org/10.48550/arXiv.2205.09651)                                 |
+|Arabic Named Entity Recognition Using Variant Deep Neural Network Architectures and Combinatorial Feature Embedding Based on CNN, LSTMandBERT|2022|[ACL](https://aclanthology.org/2022.paclic-1.33/)         |
+|Arabic Named Entity Recognition Using Transformer-based-CRF Model                                                   |2021|[ACL](https://aclanthology.org/2021.icnlsp-1.31/)                                  |
+|Classical Arabic Named Entity Recognition Using Variant Deep Neural Network Architectures and BERT                  |2021|[IEEE](https://doi.org/10.1109/ACCESS.2021.3092261)                                |
+|Arabic Named Entity Recognition: A BERT-BGRU Approach                                                               |2021|[TSP](http://dx.doi.org/10.32604/cmc.2021.016054)                                  |
 
 
