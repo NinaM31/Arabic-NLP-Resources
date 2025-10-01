@@ -5,7 +5,6 @@
 
 ![Total Papers](https://img.shields.io/badge/Paper_Count-180-6A737D?style=for-the-badge)
 ![NLP Tasks](https://img.shields.io/badge/Tasks-7-6A737D?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
 
