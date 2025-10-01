@@ -3,7 +3,7 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-![Total Papers](https://img.shields.io/badge/Paper_Count-170-6A737D?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Paper_Count-180-6A737D?style=for-the-badge)
 ![NLP Tasks](https://img.shields.io/badge/Tasks-7-6A737D?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
@@ -19,8 +19,10 @@ This repository serves as a curated collection of surveys, studies, and research
 - [Word Disambiguation](#arabic-word-disambiguation)
 - [Sentiment Analysis](#arabic-sentiment-analysis)
 - [Question-Answering Systems](#arabic-question-answering-systems)
+- [Retrieval Augmented Generation](#arabic-augmented-generation)
 - [Image Captioning](#arabic-image-captioning)
 - [Named Entity Recognition](#arabic-named-entity-recognition)
+
 
 ## Arabic Text Diacritization
 ![ATD:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
@@ -144,6 +146,7 @@ This repository serves as a curated collection of surveys, studies, and research
 ### Papers
 | Title                                                                                                                         |Year|Link                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------|
+|Selective Reading for Arabic Sentiment Analysis                                                                                |2025|[IEEE](https://doi.org/10.1109/ACCESS.2025.3556976)                        |
 |Ar-MuSA: A Multimodal Benchmark Dataset and Evaluation Framework for Arabic Sentiment Analysis                                 |2025|[IJIES](http://dx.doi.org/10.22266/ijies2025.0531.03)                      |
 |Large Language Models for Arabic Sentiment Analysis and Machine Translation                                                    |2025|[ETASR](https://doi.org/10.48084/etasr.9584)                               |
 |Arabic sentiment analysis using ensemble learning and BERT                                                                     |2025|[AIP](https://doi.org/10.1063/5.0256396)                                   |
@@ -198,6 +201,27 @@ This repository serves as a curated collection of surveys, studies, and research
 |AlQuAnS – An Arabic Language Question Answering System                                                              |2017|[SciTePress](http://dx.doi.org/10.5220/0006602901440154)                              |
 |Toward a New Arabic Question Answering System                                                                       |2018|[IAJIT](https://ccis2k.org/iajit/PDF/Special%20Issue%202018,%20No.%203A/17416.pdf)    |
 |An Arabic question-answering system for factoid questions                                                           |2009|[IEEE](https://doi.org/10.1109/NLPKE.2009.5313730)                                    |
+
+# Arabic Retrieval Augmented Generation
+![ANER:](https://img.shields.io/badge/Papers-10-6A737D?style=for-the-badge)
+### Studies & Surveys
+|Title                                                                                                                    |Year| Link                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------------  |
+|Evaluating RAG Pipelines for Arabic Lexical Information Retrieval: A Comparative Study of Embedding and Generation Models|2025|[ACL](https://aclanthology.org/2025.abjadnlp-1.16/)                                              |
+|Optimizing RAG Pipelines for Arabic: A Systematic Analysis of Core Components                                            |2025|[arXiv](https://arxiv.org/abs/2506.06339)                                                        |
+|Evaluation of Semantic Search and its Role in Retrieved-Augmented-Generation (RAG) for Arabic Language                   |2024|[arXiv](https://arxiv.org/abs/2403.18350)                                                        |
+|Exploring Retrieval Augmented Generation in Arabic                                                                       |2024|[ELSEVIER](https://doi.org/10.1016/j.procs.2024.10.203)                                          |
+|A Comparative Evaluation of Retrieval-Augmented Generation For Arabic Documents                                          |2024|[IEEE](https://doi.org/10.1109/ACIT62805.2024.10877197)                                          |
+
+
+### Papers
+|Title                                                                                                               |Year|Link                                                                               |
+|------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------------- |
+|Advancing Arabic Medical Question Answering Systems with RAG and LLMs Integration                                   |2025|[IEEE](https://doi.org/10.1109/ICTCS65341.2025.10989446)                           |
+|RFPG: Question-Answering from Low-Resource Language (Arabic) Texts using Factually Aware RAG                        |2025|[IEEE](https://doi.org/10.1109/CIC62241.2024.00023)                                |
+|Enhanced Arabic Retrieval Augmented Generation Using Nested Embedding Models                                        |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-91235-1_11)         |
+|Enhancing Arabic Information Retrieval for Question Answering                                                       |2024|[ACM](https://doi.org/10.1145/3644713.3644763)                                     |
+|Semantic Embeddings for Arabic Retrieval Augmented Generation (ARAG)                                                |2024|[IJACSA](https://doi.org/10.14569/IJACSA.2023.01411135)                            |
 
 # Arabic Image Captioning
 ![AIC:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
@@ -261,5 +285,3 @@ This repository serves as a curated collection of surveys, studies, and research
 |Arabic Named Entity Recognition Using Transformer-based-CRF Model                                                   |2021|[ACL](https://aclanthology.org/2021.icnlsp-1.31/)                                  |
 |Classical Arabic Named Entity Recognition Using Variant Deep Neural Network Architectures and BERT                  |2021|[IEEE](https://doi.org/10.1109/ACCESS.2021.3092261)                                |
 |Arabic Named Entity Recognition: A BERT-BGRU Approach                                                               |2021|[TSP](http://dx.doi.org/10.32604/cmc.2021.016054)                                  |
-
-
