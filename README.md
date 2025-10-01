@@ -18,7 +18,7 @@ This repository serves as a curated collection of surveys, studies, and research
 - [Word Disambiguation](#arabic-word-disambiguation)
 - [Sentiment Analysis](#arabic-sentiment-analysis)
 - [Question-Answering Systems](#arabic-question-answering-systems)
-- [Retrieval Augmented Generation](#arabic-augmented-generation)
+- [Retrieval Augmented Generation](#arabic-retrieval-augmented-generation)
 - [Image Captioning](#arabic-image-captioning)
 - [Named Entity Recognition](#arabic-named-entity-recognition)
 
