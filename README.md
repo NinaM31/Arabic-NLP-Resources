@@ -3,8 +3,8 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-![Total Papers](https://img.shields.io/badge/Paper_Count-180-6A737D?style=for-the-badge)
-![NLP Tasks](https://img.shields.io/badge/Tasks-7-6A737D?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Paper_Count-192-6A737D?style=for-the-badge)
+![NLP Tasks](https://img.shields.io/badge/Tasks-9-6A737D?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
 
@@ -21,6 +21,7 @@ This repository serves as a curated collection of surveys, studies, and research
 - [Retrieval Augmented Generation](#arabic-retrieval-augmented-generation)
 - [Image Captioning](#arabic-image-captioning)
 - [Named Entity Recognition](#arabic-named-entity-recognition)
+- [Arabic LLM](#arabic-llm)
 
 
 ## Arabic Text Diacritization
@@ -165,7 +166,7 @@ This repository serves as a curated collection of surveys, studies, and research
 |Deep learning approaches for Arabic sentiment analysis                                                                         |2019|[Springer](https://link.springer.com/article/10.1007/s13278-019-0596-4)    |
 
 ## Arabic Question-Answering Systems
-![AQAS:](https://img.shields.io/badge/Papers-27-6A737D?style=for-the-badge)
+![AQAS:](https://img.shields.io/badge/Papers-28-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                                          |Year| Link                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------------------------------------------------------  |
@@ -188,6 +189,7 @@ This repository serves as a curated collection of surveys, studies, and research
 |CollabAS2: Enhancing Arabic Answer Sentence Selection Using Transformer-Based Collaborative Models                  |2025|[Springer](https://link.springer.com/article/10.1007/s13369-024-09345-3)              |
 |Question-Answering (QA) Model for a Personalized Learning Assistant for Arabic Language                             |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-82377-0_30)            |
 |Automated Question Generation for Science Tests in Arabic Language Using NLP Techniques                             |2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-82377-0_24)            |
+|ArabicQuest: Enhancing Arabic Visual Question Answering with LLM Fine-Tuning                                        |2024|[IEEE](https://doi.org/10.1109/IMSA61967.2024.10652693)                               |
 |Arabic automatic question generation using transformer model                                                        |2024|[AIP](https://doi.org/10.1063/5.0199032)                                              |
 |Deep learning model for arabic question-answering chatbot                                                           |2024|[AIP](https://doi.org/10.1063/5.0200612)                                              |
 |AraMed: Arabic Medical Question Answering using Pretrained Transformer Language Models                              |2024|[ACL](https://aclanthology.org/2024.osact-1.6/)                                       |
@@ -253,7 +255,7 @@ This repository serves as a curated collection of surveys, studies, and research
 |Generating Image Captions in Arabic Using Root-Word Based Recurrent Neural Networks and Deep Neural Networks        |2018|[AAAI](https://doi.org/10.1609/aaai.v32i1.12179)                                   |
 
 # Arabic Named Entity Recognition
-![ANER:](https://img.shields.io/badge/Papers-23-6A737D?style=for-the-badge)
+![ANER:](https://img.shields.io/badge/Papers-24-6A737D?style=for-the-badge)
 ### Studies & Surveys
 |Title                                                                                                                  |Year| Link                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------------  |
@@ -272,8 +274,9 @@ This repository serves as a curated collection of surveys, studies, and research
 |------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------------- |
 |An Advanced Natural Language Processing Framework for Arabic Named Entity Recognition                               |2025|[ApplSci](https://doi.org/10.3390/app15063073)                                     |
 |ARDIAL-BERT: Advancing Multidialectal Arabic Named Entity Recognition Through Continual Pretraining                 |2025|[IEEE](https://doi.org/10.1109/TAI.2025.3562162)                                   |
-|Flat and Nested Named Entity Recognition in Arabic Language                                                         |2024|[IEEE](https://doi.org/10.1109/IRASET60544.2024.10548518)                          |
 |AMWAL: Named Entity Recognition for Arabic Financial News                                                           |2025|[ACL](https://aclanthology.org/2025.finnlp-1.20/)                                  |
+|Flat and Nested Named Entity Recognition in Arabic Language                                                         |2024|[IEEE](https://doi.org/10.1109/IRASET60544.2024.10548518)                          |
+|Arabic NER Evaluation: Pre-Trained Models via Contrastive Learning vs. LLM Few-Shot Prompting                       |2024|[ELSEVIER](https://doi.org/10.1016/j.procs.2024.10.196)                            |
 |Bangor University at WojoodNER 2024: Advancing Arabic Named Entity Recognition with CAMeLBERT-Mix                   |2024|[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.105)                            |
 |Addax at WojoodNER 2024: Attention-Based Dual-Channel Neural Network for Arabic Named Entity Recognition            |2024|[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.103)                            |
 |Active Learning with AraGPT2 for Arabic Named Entity Recognition                                                    |2023|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-41774-0_18)         |
@@ -284,3 +287,25 @@ This repository serves as a curated collection of surveys, studies, and research
 |Arabic Named Entity Recognition Using Transformer-based-CRF Model                                                   |2021|[ACL](https://aclanthology.org/2021.icnlsp-1.31/)                                  |
 |Classical Arabic Named Entity Recognition Using Variant Deep Neural Network Architectures and BERT                  |2021|[IEEE](https://doi.org/10.1109/ACCESS.2021.3092261)                                |
 |Arabic Named Entity Recognition: A BERT-BGRU Approach                                                               |2021|[TSP](http://dx.doi.org/10.32604/cmc.2021.016054)                                  |
+
+
+# Arabic LLM
+![ANER:](https://img.shields.io/badge/Papers-10-6A737D?style=for-the-badge)
+### Studies & Surveys
+|Title                                                                                                                                    |Year| Link                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------------  |
+|Evaluating Translation Quality: A Qualitative and Quantitative Assessment of Machine and LLM-Driven Arabic–English Translations          |2025|[INFO](https://doi.org/10.3390/info16060440)                                                     |
+|AL-QASIDA: Analyzing LLM Quality and Accuracy Systematically in Dialectal Arabic|2024|[IEEE](https://doi.org/10.1109/ACCESS.2024.3491897)|2025|[arXiv](https://arxiv.org/abs/2412.04193)                                                        |
+|Large Language Models and Arabic Content: A Review                                                                                       |2025|[arXiv](https://arxiv.org/abs/2505.08004)                                                        |
+|A Survey of Large Language Models for Arabic Language and its Dialects                                                                   |2024|[arXiv](https://arxiv.org/abs/2410.20238)                                                        |
+
+
+### Papers
+|Title                                                                                                               |Year|Link                                                                               |
+|------------------------------------------------------------------------------------------------------------------- |----|---------------------------------------------------------------------------------- |
+|Command R7B Arabic: A Small, Enterprise Focused, Multilingual, and Culturally Aware Arabic LLM                      |2025|[arXiv](https://arxiv.org/abs/2503.14603)                                          |
+|Multi-Hop Arabic LLM Reasoning in Complex QA                                                                        |2024|[ELSEVIER](https://www.sciencedirect.com/science/article/pii/S1877050924029806)    |
+|Synthetic Arabic Medical Dialogues Using Advanced Multi-Agent LLM Techniques                                        |2024|[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.2)                              |
+|Creating Arabic LLM Prompts at Scale                                                                                |2024|[arXiv](https://arxiv.org/abs/2408.05882)                                          |
+|ALLaM: Large Language Models for Arabic and English                                                                 |2024|[arXiv](https://arxiv.org/abs/2407.15390)                                          |
+|Arabic Mini-ClimateGPT : A Climate Change and Sustainability Tailored Arabic LLM                                    |2023|[arXiv](https://arxiv.org/abs/2312.09366)                                          |
