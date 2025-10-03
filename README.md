@@ -3,7 +3,7 @@
 </div>
 <h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
 
-![Total Papers](https://img.shields.io/badge/Paper_Count-192-6A737D?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Paper_Count-201-6A737D?style=for-the-badge)
 ![NLP Tasks](https://img.shields.io/badge/Tasks-9-6A737D?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/NinaM31/Arabic-NLP-Resources?style=for-the-badge&color=6A737D)
 ![License](https://img.shields.io/badge/License-MIT-6A737D?style=for-the-badge)
@@ -25,7 +25,20 @@ This repository serves as a curated collection of surveys, studies, and research
 
 
 ## Arabic Text Diacritization
-![ATD:](https://img.shields.io/badge/Papers-20-6A737D?style=for-the-badge)
+![ATD:](https://img.shields.io/badge/Papers-25-6A737D?style=for-the-badge)
+
+### Corpus
+| Title                                                                                                          |Corpus Link                                                                                           |Paper Link                                                                | Type                  | Avialability|Tokens|Train|Valid|Test|
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |-----------------------|-------------|-----|------|-----|----|
+|OpenITI                                                                                                         |[github](https://github.com/OpenITI/RELEASE)                                                          | N/A                                                                      |Classical Arabic       |Free         |2.2B |-     |-    |-   |
+|Tashkeela                                                                                                       |[kaggle](https://www.kaggle.com/datasets/linuxscout/tashkeela/data)                                   |[ELSEVIER](https://doi.org/10.1016/j.dib.2017.01.011)                     |Mostly Classical Arabic|Free         |75.6M|-     |-    |-   |
+|Tashkeela variant benchmark by  Fadel et al.                                                                    |[github](https://github.com/AliOsm/arabic-text-diacritization/tree/master/dataset)                    |[IEEE](https://ieeexplore.ieee.org/document/8769512)                      |Mostly Classical Arabic|Free         |24.7M|24.5M |102K |107K|
+|Tashkeela variant benchmark by  Abbad & Xiong                                                                   |[kaggle](https://www.kaggle.com/datasets/hamzaabbad/tashkeela-processed-fully-diacritized-arabic-text)|[Springer](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_23)|Mostly Classical Arabic|Free         |35.1M|31.7M |1.7M |1.7M|
+|ATB                                                                                                             |[LDC](https://catalog.ldc.upenn.edu/LDC2003T06)                                                       | N/A                                                                      |Modern Standard Arabic |Commercial   |1M   |-     |-    |-   | 
+|CATT benchmark                                                                                                  |[github](https://github.com/abjadai/catt/releases)                                                    |[ACL](https://doi.org/10.18653/v1/2024.arabicnlp-1.21)                    |Modern Standard Arabic |Free         |245K |-     |120K |125K|
+|Tanzil Quran text                                                                                               |[tanzil](https://tanzil.net/download/)                                                                | N/A                                                                      |Classical Arabic       |Free         |78K  |-     |-    |-   |
+|Wikinews                                                                                                        |[github](https://github.com/kdarwish/Farasa)                                                          | N/A                                                                      |Modern Standard Arabic |Free         |18K  |-     |-    |-   | 
+
 ### Studies & Surveys
 | Title                                                                                        |Year| Link                                                |
 | -------------------------------------------------------------------------------------------- |----|---------------------------------------------------  |
@@ -55,11 +68,25 @@ This repository serves as a curated collection of surveys, studies, and research
 | SHAKKIL: An Automatic Diacritization System for Modern Standard Arabic Texts                                   | 2017    | [ACL](https://aclanthology.org/W17-1311/)                       |
 | Arabic Diacritization with Recurrent Neural Networks                                                           | 2015    | [ACL](https://aclanthology.org/D15-1274/)                       |
 
+### Tools
+| Tool              | Open Source |   Tool Link                                                    | Paper Link                                                                |
+| ----------------- | ----------- |--------------------------------------------------------------- |-------------------------------------------------------------------------- |
+|CAMEL              |✔️          |[github](https://github.com/CAMeL-Lab/camel_tools)               |[ACL](https://www.aclweb.org/anthology/2020.lrec-1.868)                    |
+|Mishkal            |✔️          |[github](https://github.com/linuxscout/mishkal)                  |[RG](http://dx.doi.org/10.13140/RG.2.2.29882.82881)                        |
+|Shakkala           |✔️          |[github](https://github.com/Barqawiz/Shakkala)                   |N/A                                                                        |
+|Tashkeela-model    |✔️          |[github](https://github.com/Anwarvic/Arabic-Tashkeela-Model)     |N/A                                                                        |
+|Libtashkeel        |✔️          |[github](https://github.com/mush42/libtashkeel)                  |N/A                                                                        |
+|Farasa             |✖️          |[farasa](https://farasa.qcri.org/)                               |[ACL](https://doi.org/10.18653/v1/N16-3003)                                |
+|MADAMIRA           |✖️          |[columbia tech](https://inventions.techventures.columbia.edu/technologies/arabic-language--CU14012)|[ACL](https://aclanthology.org/L14-1479/)|
+
 ## Arabic Text Summarization
-![ATS:](https://img.shields.io/badge/Papers-23-6A737D?style=for-the-badge)
+![ATS:](https://img.shields.io/badge/Papers-27-6A737D?style=for-the-badge)
 ### Studies & Surveys
 | Title                                                                                                          |Year| Link                                                                        |
 | ---------------------------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------|
+|A Review of Arabic Text Summarization: Methods, Datasets, and Evaluation Metrics, With a Proposed Solution      |2025|[IEEE](https://doi.org/10.1109/ACCESS.2025.3584855)                          |
+|Abstractive text summarization using deep learning models: a survey                                             |2025|[Springer](https://link.springer.com/article/10.1007/s41060-025-00743-w)     |
+|Current Trends and Advances in Extractive Text Summarization: A Comprehensive Review                            |2025|[IEEE](https://doi.org/10.1109/ACCESS.2025.3538886)                          |
 |Exploring Advances in Arabic Long-Text Summarization Strategies: A Survey                                       |2024|[FCIHIB](https://doi.org/10.21608/fcihib.2024.258854.1103)                   |
 |A survey of text summarization and Headline Generation methods in Arabic                                        |2024|[ACM](https://doi.org/10.1145/3674029.3674078)                               |
 |Arabic Text Summarization Challenges using Deep Learning Techniques: A Review                                   |2023|[IJRITCC](http://dx.doi.org/10.17762/ijritcc.v11i11s.8079)                   |
@@ -72,6 +99,7 @@ This repository serves as a curated collection of surveys, studies, and research
 ### Papers 
 | Title                                                                                                                      |Year|   Link                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------|----| ----------------------------------------------------------------------------|
+|Arabic News Text Summarization: An Extractive Technique                                                                     |2025|[IEEE](https://doi.org/10.1109/ICIT64950.2025.11049137)                      |
 |Enhanced model for abstractive Arabic text summarization using natural language generation and named entity recognition     |2025|[Springer](https://link.springer.com/article/10.1007/s00521-024-10949-x)     |
 |Extractive Arabic Text Summarization-Graph-Based Approach                                                                   |2023|[ELECTRONICS](https://doi.org/10.3390/electronics12020437)                   |
 |A Hybrid Arabic Text Summarization Approach based on Transformers                                                           |2022|[IEEE](https://doi.org/10.1109/MIUCC55081.2022.9781694)                      |
