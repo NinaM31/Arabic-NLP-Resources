@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://github.com/user-attachments/assets/d5c4a90c-2a75-4cba-9577-c2423d28e50a?raw=true" width="300px">
 </div>
-<h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Surveys, Reviews, and Research</h2>
+<h2 align="center">Arabic NLP Essential Resources Repository (ANERR): Resources, Surveys, Reviews, and Research</h2>
 
 ![Total Papers](https://img.shields.io/badge/Paper_Count-201-6A737D?style=for-the-badge)
 ![NLP Tasks](https://img.shields.io/badge/Tasks-9-6A737D?style=for-the-badge)
@@ -28,7 +28,7 @@ This repository serves as a curated collection of surveys, studies, and research
 ![ATD:](https://img.shields.io/badge/Papers-25-6A737D?style=for-the-badge)
 
 ### Corpus
-| Title                                                                                                          |Corpus Link                                                                                           |Paper Link                                                                | Type                  | Avialability|Tokens|Train|Valid|Test|
+| Title                                                                                                          |Corpus Link                                                                                           |Paper Link                                                                | Type                  | Availability|Tokens|Train|Valid|Test|
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |-----------------------|-------------|-----|------|-----|----|
 |OpenITI                                                                                                         |[github](https://github.com/OpenITI/RELEASE)                                                          | N/A                                                                      |Classical Arabic       |Free         |2.2B |-     |-    |-   |
 |Tashkeela                                                                                                       |[kaggle](https://www.kaggle.com/datasets/linuxscout/tashkeela/data)                                   |[ELSEVIER](https://doi.org/10.1016/j.dib.2017.01.011)                     |Mostly Classical Arabic|Free         |75.6M|-     |-    |-   |
